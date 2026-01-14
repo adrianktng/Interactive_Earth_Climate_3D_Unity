@@ -1,11 +1,5 @@
 {
   "dependencies": {
-    "com.mechdyne.getreal3d": {
-      "version": "file:C:/Users/ve22478/Projects/retestworld/com.mechdyne.getreal3d-4.4.7.4211.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {}
-    },
     "com.unity.collab-proxy": {
       "version": "2.8.2",
       "depth": 0,

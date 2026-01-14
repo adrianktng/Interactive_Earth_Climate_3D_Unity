@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.mechdyne.getreal3d": "file:C:/Users/ve22478/Projects/retestworld/com.mechdyne.getreal3d-4.4.7.4211.tgz",
     "com.unity.collab-proxy": "2.8.2",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.7",
